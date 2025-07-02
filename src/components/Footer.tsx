@@ -9,8 +9,8 @@ const Footer: React.FC = () => {
           <div>
             <h3 className="text-lg font-semibold mb-4">AFairOffer.com</h3>
             <p className="text-gray-300 text-sm leading-relaxed">
-              We buy all types of commercial, residential real estate, land & businesses. 
-              Get your fair offer today with our streamlined process.
+              We Buy All Types of Commercial, Residential Real Estate, Land & even Businesses. 
+              Get your Fair Offer today with our streamlined process.
             </p>
           </div>
           
@@ -44,7 +44,7 @@ const Footer: React.FC = () => {
         
         <div className="border-t border-gray-700 mt-8 pt-8 text-center">
           <p className="text-sm text-gray-400">
-            © 2024 AFairOffer.com. All rights reserved. | Privacy Policy | Terms of Service
+            © 2024 AFairOffer™ Trust. All Rights Reserved. | Privacy Policy | Terms of Service
           </p>
         </div>
       </div>
